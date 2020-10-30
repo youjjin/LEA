@@ -1,0 +1,5 @@
+src/init.o: \
+ C:/Users/dbwls/Downloads/FreedomStudio-2020-06-3-win64/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/src/init.c \
+ C:/Users/dbwls/Downloads/FreedomStudio-2020-06-3-win64/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/init.h
+
+C:/Users/dbwls/Downloads/FreedomStudio-2020-06-3-win64/SiFive/freedom-e-sdk-v20.05.00.02/freedom-metal/metal/init.h:
